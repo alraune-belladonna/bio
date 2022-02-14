@@ -1,0 +1,14 @@
+#heading {
+  font-family: 'Cutive Mono', monospace;
+  font-weight: bolder;
+}
+
+.info {
+  font-family: 'Cutive Mono', monospace;
+  font-weight: 500px;
+  background-color: bisque;
+}
+
+img {
+  style="height: 250px; width: auto"
+}
